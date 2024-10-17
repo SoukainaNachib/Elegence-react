@@ -25,7 +25,7 @@ From your command line, first clone this repo:
 
 ```
 # Clone this repository
-$ 
+$ https://github.com/SoukainaNachib/Elegence-react.git
 
 # Go into the repository
 $ cd elegancehub

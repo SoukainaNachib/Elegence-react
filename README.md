@@ -1,7 +1,7 @@
 # Elegance E-commerce Website
 
 ## Peer
-soukaina nachib <soukaina.nachib>
+soukaina nachib <soukaina.nachib23@gmail.com>
 
 ## Features
 

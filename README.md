@@ -28,7 +28,7 @@ From your command line, first clone this repo:
 $ https://github.com/SoukainaNachib/Elegence-react.git
 
 # Go into the repository
-$ cd elegancehub
+$ cd Elegence-react
 
 # Remove current origin repository
 $ git remote remove origin
